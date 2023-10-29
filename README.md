@@ -1,8 +1,10 @@
 # Pytorch Transform Illustration
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pytorch-transform-illustrations.streamlit.app)
+
 Welcome to the PyTorch Transformation Illustrations, an interactive application that allows users to visualize and test PyTorch data augmentation transformations. This tool is designed to help data scientists, machine learning engineers, and researchers explore the effects of various transformations on their data, making it easier to fine-tune data augmentation strategies for deep learning projects.
 
-Test App: [https://pytorch-transform-illustrations.streamlit.app](https://pytorch-transform-illustrations.streamlit.app/)
+Test App: [https://pytorch-transform-illustrations.streamlit.app]()
 
 ![pytorch_transform_ill.gif](statics/pytorch_transform_ill.gif)
 
